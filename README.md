@@ -1,4 +1,4 @@
 # To Do App In React
 
-![My Image](./img/todoimg.png)
+![My Image](.public/img/todoimg.png)
 
